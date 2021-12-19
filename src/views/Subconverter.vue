@@ -255,15 +255,15 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://calm-disk-1cb4.im-xiayang-cq4550.workers.dev/sub?" }],
+        backendOptions: [{ value: "https://white.album.workers.dev/sub?" }],
         remoteConfig: [
         {
             label: "ACL4SSR",
             options: [
               {
-                label: "ACL4SSR_Online 默认版 分组比较全 (与Github同步)",
+                label: "ACL4SSR_Online 默认版 分组比较全 (魔改版与Github同步)",
                 value:
-                  "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
+                  "https://raw.githubusercontent.com/WhiteAlbum-w/clash/WhiteAlbum-w-patch-1/ACL4SSR_Online_Full_AdblockPlus.ini"
               },
               {
                 label: "ACL4SSR_Online_AdblockPlus 更多去广告 (与Github同步)",
